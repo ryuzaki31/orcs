@@ -14,6 +14,6 @@ int main(){
 		setcolor(x);
 		cout<<x<<" ";
 
-	}while(x!=1000);
+	}while(x!=255);
 	system("pause");
 }
